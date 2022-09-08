@@ -25,3 +25,10 @@ POWERED BY
 Material UI
 ![image](https://user-images.githubusercontent.com/98350223/188341470-a02c54bd-3b82-4538-a0b7-be97b83c7d23.png)
 Firebase
+------------------------------------------------------------------------------------------------------------
+autentificacion de usuarion en Firebase
+![image](https://user-images.githubusercontent.com/98350223/189005439-dae59b51-9ba1-4329-8450-ecc196400f27.png)
+![image](https://user-images.githubusercontent.com/98350223/189008224-2d76f607-6884-45ae-9ecd-a21741d09091.png)
+agrega a tu carrito
+![image](https://user-images.githubusercontent.com/98350223/189008274-56ce3f01-aef3-4c0e-9b2f-526853931b15.png)
+paga a travez de PayPal
